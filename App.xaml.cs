@@ -13,5 +13,6 @@ namespace CMTestApp
     public partial class App : Application
     {
 	    hello world
+	    switched to master after branch
     }
 }
