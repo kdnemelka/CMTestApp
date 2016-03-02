@@ -12,5 +12,6 @@ namespace CMTestApp
     /// </summary>
     public partial class App : Application
     {
+	    hello
     }
 }
