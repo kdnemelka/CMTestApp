@@ -14,5 +14,8 @@ namespace CMTestApp
     {
 	    hello world
 	    switched to master after branch
+	    
+	    I want to delete this one!
+	    
     }
 }
