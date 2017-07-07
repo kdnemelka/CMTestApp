@@ -13,6 +13,7 @@ namespace CMTestApp
     public partial class App : Application
     {
 	   Ok, this is the test on the initial branch.
+	   Now, other branch.
 	    
     }
 }
