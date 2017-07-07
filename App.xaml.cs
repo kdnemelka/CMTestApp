@@ -14,6 +14,7 @@ namespace CMTestApp
     {
 	   Ok, this is the test on the initial branch.
 	   Now, other branch.
+	   Merge me.
 	    
     }
 }
