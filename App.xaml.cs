@@ -12,11 +12,7 @@ namespace CMTestApp
     /// </summary>
     public partial class App : Application
     {
-	    hello world
-	    switched to master after branch
-	    
-	    I want to delete this one!
-	    Created this 2.17 at 2:20
+	   Ok, this is the test on the initial branch.
 	    
     }
 }
